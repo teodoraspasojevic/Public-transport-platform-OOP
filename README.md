@@ -1,4 +1,4 @@
-# Public-transport-platform-oop
+# Public-transport-platform-OOP
 Implementation of a public transport platform, using object oriented programming and a graph as a data structure.
 
 **Implementation**
